@@ -9,18 +9,6 @@ Supervised Dual Attention Network for Multi-Stage Motion Deblurring in Frontal-v
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-## Network Architecture
-<table>
-  <tr>
-    <td> <img src = "https://user-images.githubusercontent.com/79509777/205259623-5288699e-2209-4dd2-aa40-9122d30aed0d.png"> </td>
-    <td> <img src = "https://user-images.githubusercontent.com/79509777/205260054-56dd572f-ceb7-4939-9e68-29124dbb3686.png" width="400"> </td>
-  </tr>
-  <tr>
-    <td><p align="center"><b>Overall Framework of SDAN-MD</b></p></td>
-    <td><p align="center"> <b>Supervised Dual Attention Module (SDAM)</b></p></td>
-  </tr>
-</table>
-
 ## Overall Architecture
 <table>
   <tr>
