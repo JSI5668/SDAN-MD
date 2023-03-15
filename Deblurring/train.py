@@ -56,7 +56,6 @@ val_dir = opt.TRAINING.VAL_DIR
 train_val_dir = opt.TRAINING.TRAIN_VAL_DIR
 ######### Model ###########
 model_restoration = SDAN_MD()
-utils.load_checkpoint(model_restoration, './base/model_deblurring.pth')
 model_restoration.cuda()
 
 device_ids = [i for i in range(torch.cuda.device_count())]
